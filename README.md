@@ -7,7 +7,7 @@ The model is trained on the Pima Indians Diabetes Dataset and deployed using Str
 👉 [Click here to try the app](https://diabetes-prediction-webapp-l8zlxwimje5mvj4oxjyfkw.streamlit.app/)  
 
 ## 💻 Features
-- Predicts diabetes risk based on:
+- Predicts diabetes risk for females based on:
   - Pregnancies
   - Glucose
   - Blood Pressure
